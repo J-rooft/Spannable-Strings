@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpannableText</string>
+    <string name="action_settings">Settings</string>
+    <string name="color_red">Color red</string>
+    <string name="underline">Underline</string>
+    <string name="clear">Clear</string>
+    <string name="sentence">Words in this sentence can be colored in red or underlined.</string>
+
+</resources>
